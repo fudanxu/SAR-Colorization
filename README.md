@@ -1,6 +1,10 @@
 # SAR-Colorization
 Code for Paper Q. Song, F. Xu, and Y.Q. Jin, "Radar Image Colorization: Converting Single-Polarization to Fully Polarimetric Using Deep Neural Networks," IEEE Access.
 
+![graphicabstract](graphic abstract1.png)
+
+![architecture](Network Architecture.jpg)
+
 * Datasets that used in the paper can be downloaded from https://www.asf.alaska.edu/ select UAVSAR data acquired at San Andreas fault.
 
 ## Prerequisites
@@ -20,6 +24,9 @@ First, download dataset:
 To train a model:
 
     $ python main.py
+
+## Results
+
 
 ## Authors
 - [Qian Song](https://github.com/QianSong-Cherry)
