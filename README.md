@@ -1,7 +1,7 @@
 # SAR-Colorization
 Code for Paper Q. Song, F. Xu, and Y.Q. Jin, "Radar Image Colorization: Converting Single-Polarization to Fully Polarimetric Using Deep Neural Networks," IEEE Access.
 
-![graphicabstract](graphic abstract1.png)
+![graphicabstract](graphicAbstract.png)
 
 ![architecture](Network Architecture.jpg)
 
