@@ -3,7 +3,7 @@ Code for Paper Q. Song, F. Xu, and Y.Q. Jin, "Radar Image Colorization: Converti
 
 ![graphicabstract](graphicAbstract.png)
 
-![architecture](Network Architecture.jpg)
+![architecture](networkArchitecture.jpg)
 
 * Datasets that used in the paper can be downloaded from https://www.asf.alaska.edu/ select UAVSAR data acquired at San Andreas fault.
 
@@ -26,7 +26,12 @@ To train a model:
     $ python main.py
 
 ## Results
-
+### VV-pol SAR Image
+![VV-pol](VV-pol.jpg)
+### Actual Full-pol SAR Image
+![actual full-pol](actual_full-pol.jpg)
+### Reconstructed Full-pol Image
+![reconstructed full-pol](reconstructed_full-pol.jpg)
 
 ## Authors
 - [Qian Song](https://github.com/QianSong-Cherry)
