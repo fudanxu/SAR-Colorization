@@ -10,6 +10,16 @@ Code for Paper Q. Song, F. Xu, and Y.Q. Jin, "Radar Image Colorization: Converti
 - [NumPy](http://www.numpy.org/)
 - h5py
 
+## Useage
+First, download dataset:
+
+    $ Download the data(https://www.asf.alaska.edu/), and save it as *.mat* file.
+    $  mkdir data
+     ... and copy data into it.
+     
+To train a model:
+
+    $ python main.py
 
 ## Authors
 - [Qian Song](https://github.com/QianSong-Cherry)
