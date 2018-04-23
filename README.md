@@ -17,7 +17,7 @@ Code for Paper Q. Song, F. Xu, and Y.Q. Jin, "Radar Image Colorization: Converti
 ## Useage
 First, download dataset:
 
-    $ Download the data(https://www.asf.alaska.edu/), and save it as *.mat* file.
+    $ Download the data(https://www.asf.alaska.edu/), and save it as *.mat* file. Two Images used in this paper are SanAnd_08503_12130_002_121109_L090_CX_01 and gulfco_00702_12053_004_120702_L090_CX_01.
     $  mkdir data
      ... and copy data into it.
      
